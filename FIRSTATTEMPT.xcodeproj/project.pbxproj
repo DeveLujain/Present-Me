@@ -7,7 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
-		1826C0882CA94ED100F4BAAF /* Heba.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1826C0872CA94ED100F4BAAF /* Heba.swift */; };
+		1826C0C22CAA7A3400F4BAAF /* Heba.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1826C0C12CAA7A3400F4BAAF /* Heba.swift */; };
 		326E8DB72CA94494007A1D75 /* maryam.swift in Sources */ = {isa = PBXBuildFile; fileRef = 326E8DB62CA94492007A1D75 /* maryam.swift */; };
 		8B507B3A2CA538B9005F76A6 /* FIRSTATTEMPTApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8B507B392CA538B9005F76A6 /* FIRSTATTEMPTApp.swift */; };
 		8B507B3C2CA538B9005F76A6 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8B507B3B2CA538B9005F76A6 /* ContentView.swift */; };
@@ -36,7 +36,7 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
-		1826C0872CA94ED100F4BAAF /* Heba.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Heba.swift; sourceTree = "<group>"; };
+		1826C0C12CAA7A3400F4BAAF /* Heba.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Heba.swift; sourceTree = "<group>"; };
 		326E8DB62CA94492007A1D75 /* maryam.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = maryam.swift; sourceTree = "<group>"; };
 		8B507B362CA538B9005F76A6 /* FIRSTATTEMPT.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = FIRSTATTEMPT.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		8B507B392CA538B9005F76A6 /* FIRSTATTEMPTApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FIRSTATTEMPTApp.swift; sourceTree = "<group>"; };
@@ -78,7 +78,7 @@
 		8B507B2D2CA538B9005F76A6 = {
 			isa = PBXGroup;
 			children = (
-				1826C0872CA94ED100F4BAAF /* Heba.swift */,
+				1826C0C12CAA7A3400F4BAAF /* Heba.swift */,
 				8B507B382CA538B9005F76A6 /* FIRSTATTEMPT */,
 				8B507B492CA538B9005F76A6 /* FIRSTATTEMPTTests */,
 				8B507B532CA538B9005F76A6 /* FIRSTATTEMPTUITests */,
@@ -264,7 +264,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				326E8DB72CA94494007A1D75 /* maryam.swift in Sources */,
-				1826C0882CA94ED100F4BAAF /* Heba.swift in Sources */,
+				1826C0C22CAA7A3400F4BAAF /* Heba.swift in Sources */,
 				8B507B3C2CA538B9005F76A6 /* ContentView.swift in Sources */,
 				8B507B3A2CA538B9005F76A6 /* FIRSTATTEMPTApp.swift in Sources */,
 			);
