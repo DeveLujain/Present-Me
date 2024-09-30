@@ -16,6 +16,7 @@
 		8B507B4B2CA538B9005F76A6 /* FIRSTATTEMPTTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8B507B4A2CA538B9005F76A6 /* FIRSTATTEMPTTests.swift */; };
 		8B507B552CA538B9005F76A6 /* FIRSTATTEMPTUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8B507B542CA538B9005F76A6 /* FIRSTATTEMPTUITests.swift */; };
 		8B507B572CA538B9005F76A6 /* FIRSTATTEMPTUITestsLaunchTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8B507B562CA538B9005F76A6 /* FIRSTATTEMPTUITestsLaunchTests.swift */; };
+		999F62C22CA94FFC00C10B0B /* rawan.swift in Sources */ = {isa = PBXBuildFile; fileRef = 999F62C02CA94FEE00C10B0B /* rawan.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -48,6 +49,7 @@
 		8B507B502CA538B9005F76A6 /* FIRSTATTEMPTUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = FIRSTATTEMPTUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		8B507B542CA538B9005F76A6 /* FIRSTATTEMPTUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FIRSTATTEMPTUITests.swift; sourceTree = "<group>"; };
 		8B507B562CA538B9005F76A6 /* FIRSTATTEMPTUITestsLaunchTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FIRSTATTEMPTUITestsLaunchTests.swift; sourceTree = "<group>"; };
+		999F62C02CA94FEE00C10B0B /* rawan.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = rawan.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -102,6 +104,7 @@
 				8B507B392CA538B9005F76A6 /* FIRSTATTEMPTApp.swift */,
 				8B507B3B2CA538B9005F76A6 /* ContentView.swift */,
 				326E8DB62CA94492007A1D75 /* maryam.swift */,
+				999F62C02CA94FEE00C10B0B /* rawan.swift */,
 				8B507B3D2CA538B9005F76A6 /* Assets.xcassets */,
 				8B507B3F2CA538B9005F76A6 /* Preview Content */,
 			);
@@ -267,6 +270,7 @@
 				1826C0C22CAA7A3400F4BAAF /* Heba.swift in Sources */,
 				8B507B3C2CA538B9005F76A6 /* ContentView.swift in Sources */,
 				8B507B3A2CA538B9005F76A6 /* FIRSTATTEMPTApp.swift in Sources */,
+				999F62C22CA94FFC00C10B0B /* rawan.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
